@@ -3,9 +3,17 @@ neurotech-challenge.com
 
 Website for the NeuroTech Challenge Series.
 
+# Overview
+
+This website uses the static-site generator Hugo.
+
+To edit content shown on the landing page, edit `content/_index.md`.
+
+The theme used is a fork of the theme Ananke, found in the `theme/gohugo-theme-ananke-ntcs` folder. The fork lives here: https://github.com/ErikBjare/gohugo-theme-ananke-ntcs
+
 # TODO
 
- - Follow design mockup
+See [issue #1](https://github.com/NeuroTechX/neurotech-challenge.com/issues/1) for what is needed to get this ready for prod.
 
 # Resources
 
