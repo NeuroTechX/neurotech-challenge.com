@@ -28,6 +28,8 @@ enableRobotsTXT = true
 [params]
   title = "The NeuroTech Challenge Series"
   description = ""
+  # Can't get this to work right
+  #custom_css = ["custom.css"]
 
   author = ""
   maillist = "http://eepurl.com/hd2o1D"
