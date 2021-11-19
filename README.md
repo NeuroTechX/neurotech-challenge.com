@@ -1,6 +1,8 @@
 neurotech-challenge.com
 =======================
 
+[![Deploy](https://github.com/NeuroTechX/neurotech-challenge.com/actions/workflows/deploy.yml/badge.svg)](https://github.com/NeuroTechX/neurotech-challenge.com/actions/workflows/deploy.yml)
+
 Website for the NeuroTech Challenge Series.
 
 # Overview
